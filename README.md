@@ -87,8 +87,3 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
-
-## Attribution & Project Notes
-
-Note: I mainly made it and codex helped slightly.
