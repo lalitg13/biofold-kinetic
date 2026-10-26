@@ -4,6 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+<p align="center">
+  <img src="assets/energy_landscape_spin.gif" alt="BioFold 3D Free Energy Landscape Spinning Animation" width="620px"/>
+</p>
+
 BioFold-Kinetic is a computational biophysics and machine learning platform that combines **Stochastic Metropolis-Hastings Monte Carlo Sampling** with **Latent Space Free-Energy Landscape Mapping** to simulate polypeptide conformational kinetics, thermal denaturation thresholds, and Ramachandran backbone stability.
 
 ---
